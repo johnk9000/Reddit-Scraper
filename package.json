@@ -1,0 +1,23 @@
+{
+  "name": "reddit-scraper",
+  "version": "1.0.0",
+  "description": "Prototype javascript and ReactJS app for scraping Reddit.com to be used for sentiment analysis",
+  "main": "reddit-scraper.js",
+  "dependencies": {
+    "puppeteer": "^7.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnk9000/Reddit-Scraper.git"
+  },
+  "author": "John Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnk9000/Reddit-Scraper/issues"
+  },
+  "homepage": "https://github.com/johnk9000/Reddit-Scraper#readme"
+}
